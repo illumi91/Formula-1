@@ -1,1 +1,0 @@
-from .pipeline import ingest_data
